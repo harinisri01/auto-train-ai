@@ -140,4 +140,4 @@ streamlit run app.py
 
 ## Author
 
-Harini Sri
+Harini sri
