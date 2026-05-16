@@ -111,7 +111,7 @@ Auto-Train-AI/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Auto-Train-AI.git
+git clone git clone https://github.com/HariniSri01/Auto-Train-AI.git
 ```
 
 Install required dependencies:
