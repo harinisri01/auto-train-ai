@@ -98,7 +98,7 @@ Auto-Train-AI/
 
 ### Model Training
 
-![Model Training](screenshots/model_training.png)
+![Model Training](screenshots/model-training.png)
 
 ### Prediction System
 
@@ -140,4 +140,4 @@ streamlit run app.py
 
 ## Author
 
-Harini sri
+Harini Sri
